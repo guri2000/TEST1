@@ -1,0 +1,560 @@
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	font-family:Tahoma, Verdana, arial, helvetica, sans-serif;
+	font-size:12px;
+	color:#464646;
+	line-height:16px;
+	font-weight:normal;
+}
+.bodytext {	
+	font-family:Tahoma, Verdana, arial, helvetica, sans-serif;
+	font-size:12px;
+	color:#464646;
+	line-height:16px;
+	font-weight:normal;
+}
+.text_blue
+{
+	font-weight:normal;
+	font-size:17px;
+	color:#0088ba;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.bodybox_repeat
+{
+background-image:url(bodybox_repeat.jpg); background-repeat:repeat-y;
+}
+.menu_middle
+{
+background-image:url(menutab_middle.jpg); background-repeat:no-repeat; width:974px;
+}
+.project_more
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#464646;
+}
+.project_more a:hover
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#136ea8;
+}
+.footer_repeat
+{
+background-image:url(footertab_repeat.jpg); background-repeat:repeat-x; width:973px;
+}
+.footer_text
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#464646; line-height:normal; font-weight:normal; text-decoration:none;
+}
+.footer_text a:hover
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#136ea8; line-height:normal; font-weight:normal; text-decoration:none;
+}
+
+A.topnav:link {
+color:#FFFFFF; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:none; line-height:normal;
+}
+A.topnav:visited {
+color:#ffffff; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:none; line-height:normal;
+}
+A.topnav:active {
+color:#ffffff; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:none; line-height:normal;
+}
+A.topnav:hover {
+color:#66B43A; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:none; line-height:normal;
+}
+a.sitemap_link:link
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#136ea8;
+}
+a.sitemap_link:visited
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#136ea8;
+}
+a.sitemap_link:active
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#136ea8;
+}
+a.sitemap_link:hover
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#464646;
+}
+.booknow_repeat
+{
+background-image:url(booknow_repeat.jpg); background-repeat:repeat-x; width:212px; background-color:#dedede;
+}
+.booknow_rightrepeat
+{
+background-image:url(booknow_rightrepeat.jpg); background-repeat:repeat-y; width:2px;
+}
+.booknow_leftrepeat
+{
+background-image:url(booknow_leftrepeat.jpg); background-repeat:repeat-y; width:2px;
+}
+.buytab_repeat
+{
+	background-image:url(buytab_bg.jpg);
+	background-repeat:repeat-x;
+	width:201px;
+}
+.buytab_subbg
+{
+background-image:url(buytab_subbg.jpg); background-repeat:repeat-y; width:212px;
+}
+.citytab_repeat
+{
+background-image:url(citytab_repeat.jpg); background-repeat:repeat-x; width:212px; height:33px;
+}
+a.booknow_navigation:link
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(booknow_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.booknow_navigation:visited
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(booknow_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.booknow_navigation:active
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(booknow_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.booknow_navigation:hover
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-image:url(booknow_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+.booknow_navigation02
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-image:url(booknow_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+.white_bold01
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:15px; font-weight:bold; text-decoration:none; line-height:normal; color:#FFFFFF;
+}
+.white_bold02
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:14px; font-weight:bold; text-decoration:none; line-height:normal; color:#FFFFFF;
+}
+.white_bold03
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; font-weight:bold; text-decoration:none; line-height:normal; color:#FFFFFF;
+}
+.grey_bold01
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:14px; font-weight:bold; text-decoration:none; line-height:normal; color:#464646; line-height:normal;
+}
+.grey_bold02
+{
+font-family:"Trebuchet MS", Tahoma, Verdana, arial, helvetica, sans-serif; font-size:14px; font-weight:bold; text-decoration:none; line-height:normal; color:#464646; line-height:normal;
+}
+ .grey_bold02 a:hover
+{
+font-family:"Trebuchet MS", Tahoma, Verdana, arial, helvetica, sans-serif; font-size:14px; font-weight:bold; text-decoration:none; line-height:normal; color:#136ea8; line-height:normal;
+}
+.grey_bold03
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; font-weight:bold; text-decoration:none; line-height:normal; color:#464646; line-height:normal;
+}
+.grey_bold04
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; font-weight:bold; text-decoration:none; line-height:normal; color:#464646; line-height:normal;
+}
+a.city_navigation:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(city_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:14px; padding-bottom:1px;
+}
+a.city_navigation:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(city_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:14px; padding-bottom:1px;
+}
+a.city_navigation:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; background-image:url(city_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:14px; padding-bottom:1px;
+}
+a.city_navigation:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-image:url(city_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:14px; padding-bottom:1px;
+}
+.city_navigation02
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-image:url(city_dot.jpg); background-repeat:no-repeat; background-position:left; padding-left:14px; padding-bottom:1px;
+}
+.managermsg_bg01
+{
+background-image:url(managersmsg_bg01.jpg); background-repeat:repeat-y; width:212px;
+}
+.managermsg_bg02
+{
+background-image:url(managersmsg_bg02.jpg); background-repeat:repeat-x; width:204px;
+}
+.news_text
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#136ea8; line-height:normal; font-weight:normal;
+}
+.smarthomes_bgrepeat
+{
+background-image:url(smarthomes_repeat.jpg); background-repeat:repeat-x; width:522px; background-position:bottom; background-color:#eff2f4;
+}
+.smarthomes_bgbottomrepeat
+{
+background-image:url(smarthomes_bottomrepeat.jpg); background-repeat:repeat-x; width:522px;
+}
+.projects_verticalline
+{
+background-image:url(project_verticalline.jpg); background-repeat:repeat-y; background-position:center;
+}
+.projects_horizontalline
+{
+background-image:url(project_horizantalline.jpg); background-repeat:repeat-x;
+}
+.what_toprepeat
+{
+background-image:url(what_toprepeat.jpg); background-repeat:repeat-x;
+}
+.what_bottomrepeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/what_bottomrepeat.jpg); background-repeat:repeat-x;
+}
+.what_bgrepeat01
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/what_repeat01.jpg); background-repeat:repeat-y;
+}
+.what_bgrepeat02
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/what_repeat02.jpg); background-repeat:repeat-x;
+}
+.form_style01
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:166px; height:21px;
+}
+.form_style02
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:166px; height:17px;
+}
+.form_style03
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:134px; height:17px;
+}
+.form_style04
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:136px; height:21px;
+}
+.submit_btn
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/submit_btn.jpg); background-repeat:no-repeat; width:90px; height:29px; border:none; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; color:#FFFFFF; line-height:normal; text-decoration:none; padding-bottom:2px;
+}
+.submenu_repeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/submenu_repeat.jpg); background-repeat:repeat-x; width:968px;
+}
+a.submenu:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.submenu:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.submenu:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.submenu:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8;
+}
+.submenu02
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8;
+}
+a.clickview:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:underline; color:#136ea8;
+}
+a.clickview:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:underline; color:#136ea8;
+}
+a.clickview:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:underline; color:#136ea8;
+}
+a.clickview:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8;
+}
+a.search_click:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#3c9ac0;
+}
+a.search_click:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#3c9ac0;
+}
+a.search_click:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#3c9ac0;
+}
+a.search_click:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:underline; color:#3c9ac0;
+}
+.pricetab_repeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/pricetab_repeat.jpg); background-repeat:no-repeat; width:166px;
+}
+.pricetab_repeat02
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/pricetab_repeat02.jpg); background-repeat:repeat-y; width:179px;
+}
+.price_repeat03
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/pricetab_repeat03.jpg); background-repeat:repeat-x; width:171px;
+}
+.blue_bold01
+{
+font-weight:bold; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#136ea8;
+}
+.searchtab_repeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/searchtab_middle.jpg); background-repeat:no-repeat; width:961px;
+}
+.searchtab_repeat02
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/searchbox_repeat01.jpg); background-repeat:repeat-y; width:972px; background-position:center;
+}
+.searchtab_repeat03
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/searchbox_repeat02.jpg); background-repeat:repeat-x; width:962px;
+}
+.red_normal
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#ff5f00;
+}
+.searchbtn_bg
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/search_btnbg.jpg); background-repeat:repeat-x; font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:13px; text-decoration:none; color:#ffffff; padding:0 15px 0 15px; border:1px solid #253fc2; height:26px; line-height:normal;
+}
+.companyprofile_rightnavrepeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/companyprofile_rhtnavrepeat.jpg); background-repeat:repeat-x; width:204px;
+}
+a.right_navigation:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; padding-left:35px; padding-bottom:1px; display:block;
+}
+a.right_navigation:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; padding-left:35px; padding-bottom:1px; display:block;
+}
+a.right_navigation:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646; letter-spacing:0px; padding-left:35px; padding-bottom:1px; display:block;
+}
+a.right_navigation:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#0086b9; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/rightnav_arrow.jpg); background-repeat:no-repeat; background-position:20px center; padding-left:35px; background-color:#FFFFFF; display:block; padding-bottom:4px; padding-top:3px;
+}
+.right_navigation02
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#0086b9; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/rightnav_arrow.jpg); background-repeat:no-repeat; background-position:20px center; padding-left:35px; background-color:#FFFFFF; display:block; padding-bottom:4px; padding-top:3px;
+}
+
+.companyprofile_leftnav
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/companyprofile_rightnavleft.jpg); background-repeat:no-repeat;
+}
+.companyprofile_rightnav
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/companyprofile_rhtnavrght.jpg); background-repeat:no-repeat;
+}
+
+
+
+a.lightbox-2:link
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.lightbox-2:visited
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.lightbox-2:active
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;
+}
+a.lightbox-2:hover
+{
+font-weight:normal; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; text-decoration:none; color:#136ea8;
+}
+.loanform_middlebg
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/loanform_middlebg.jpg); background-repeat:repeat-y;
+}
+.loanform_repeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/loanform_tabrepeat.jpg); background-repeat:repeat-x;
+}
+.loanform_middlesubbg
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/loanform_submiddlebg.jpg); background-repeat:repeat-x; background-color:#e0e0e0;
+}
+.red_style01
+{
+font-family:Arial, Tahoma, Verdana, Helvetica, "Times New Roman"; font-size:11px; color:#ff0000; font-weight:normal;
+}
+.red_style02
+{
+font-family:Arial, Tahoma, Verdana, Helvetica, "Times New Roman"; font-size:12px; color:#ff0000; font-weight:normal;
+}
+.loanformblack_style01
+{
+font-family:Tahoma, Arial, Verdana, Helvetica, "Times New Roman"; font-size:13px; color:#464646; font-weight:normal; text-decoration:underline; font-weight:bold;
+}
+.loan_formstyle01
+{
+font-family:Arial, Tahoma, Verdana, Helvetica, "Times New Roman"; font-size:11px; color:#464646; font-weight:normal; border:#7f9db9 1px solid; height:17px;
+}
+.loan_formstyle02
+{
+font-family:Arial, Tahoma, Verdana, Helvetica, "Times New Roman"; font-size:11px; color:#464646; font-weight:normal; border:#7f9db9 1px solid; height:17px; background-color:#ebebe4;
+}
+.loan_btnbg
+{
+font-family:Arial, Tahoma, Verdana, Helvetica, "Times New Roman"; font-size:12px; color:#464646; font-weight:bold; border:#b3b3b3 1px solid; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/loan_btnbg.jpg); background-repeat:repeat-x; padding:3px 10px;
+}
+
+
+
+.enquiryform_style03
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:134px; height:17px;
+}
+.enquiryform_style04
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:136px; height:19px;
+}
+.enquiryform_style05
+{
+border:1px solid #dfdfdc; font:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; text-decoration:none; line-height:normal; color:#464646; font-weight:normal; width:134px; height:30px;
+}
+
+.enquirysubmit_btn
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/enquirysubmit_btn.jpg); background-repeat:no-repeat; width:65px; height:22px; border:none; font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:12px; color:#FFFFFF; line-height:normal; text-decoration:none; padding-bottom:2px;
+}
+.enquirytab_repeat
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/enquiry_repeat.jpg); background-repeat:repeat-x; width:197px;
+}
+
+a.terms:hover
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:15px; text-decoration:none; color:#464646; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+
+a.terms:link
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms:visited
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms:active
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms:hover
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#ffffff; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+
+a.terms02:link
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#ffffff; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms02:visited
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#ffffff; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms02:active
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#ffffff; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+a.terms02:hover
+{
+font-weight:bold; font-family:"Trebuchet MS", Verdana, Arial, Tahoma, "Helvetica Condensed"; font-size:13px; text-decoration:none; color:#136ea8; letter-spacing:0px; background-repeat:no-repeat; background-position:left; padding-left:20px; padding-bottom:2px;
+}
+
+
+.messageboxerror
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#FF0000; line-height:normal; font-weight:normal;
+}
+
+.messageboxok
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#007700; line-height:normal; font-weight:normal;
+}
+
+.msgbox
+{
+font-family:Tahoma, Verdana, arial, helvetica, sans-serif; font-size:11px; color:#000000; line-height:normal; font-weight:normal;
+}
+
+
+.cad_topmiddle
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_middletop.jpg); background-repeat:repeat-x;
+}
+.cad_bottommiddle
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_middlebottom.jpg); background-repeat:repeat-x;
+}
+.cad_leftmiddle
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_leftmiddle.jpg); background-repeat:repeat-y;
+}
+.cad_rightmiddle
+{
+background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_rightmiddle.jpg); background-repeat:repeat-y;
+}
+.cad_listfield
+{
+border:1px #7f9db9 solid; font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none; padding:1px; width:63px;
+}
+.cad_listfield02
+{
+border:1px #7f9db9 solid; font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none; padding:1px; width:75px;
+}
+.cad_textfield
+{
+border:1px #7f9db9 solid; font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none; padding:2px;
+} 
+.cad_textfield02
+{
+border:1px #7f9db9 solid; font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none; padding:2px; width:200px;
+}
+.cad_textfield03
+{
+border:1px #7f9db9 solid; font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none; padding:2px; width:200px; height:50px;
+} 
+.cad_normaltext
+{
+font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#424242; font-weight:normal; line-height:normal; text-decoration:none;
+}
+a.cad_link:link
+{
+font-weight:normal; font-family:arial, Tahoma, Verdana, helvetica, sans-serif; font-size:14px; text-decoration:none; color:#2001de; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_arrowicon.jpg); background-repeat:no-repeat; background-position:left; padding-left:17px; display:block; padding-top:1px;
+}
+a.cad_link:visited
+{
+font-weight:normal; font-family:arial, Tahoma, Verdana, helvetica, sans-serif; font-size:14px; text-decoration:none; color:#2001de; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_arrowicon.jpg); background-repeat:no-repeat; background-position:left; padding-left:17px; display:block; padding-top:1px;
+}
+a.cad_link:active
+{
+font-weight:normal; font-family:arial, Tahoma, Verdana, helvetica, sans-serif; font-size:14px; text-decoration:none; color:#2001de; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_arrowicon.jpg); background-repeat:no-repeat; background-position:left; padding-left:17px; display:block; padding-top:1px;
+}
+a.cad_link:hover
+{
+font-weight:normal; font-family:arial, Tahoma, Verdana, helvetica, sans-serif; font-size:14px; text-decoration:none; color:#0445b3; letter-spacing:0px; background-image:url(http://www.janapriya.com/wp-content/themes/janapriya/images/cad_arrowicon.jpg); background-repeat:no-repeat; background-position:left; padding-left:17px; display:block; padding-top:1px;
+}
